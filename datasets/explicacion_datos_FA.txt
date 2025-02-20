@@ -1,0 +1,7 @@
+rango: El rango militar del oficial (Coronel, Teniente Coronel, Mayor, Capitán, Teniente, Alférez).
+nombre: El nombre completo del oficial.
+especialidad: La especialidad o área de trabajo del oficial (Piloto de combate, Ingeniero aeronáutico, etc.).
+años_servicio: La cantidad de años que el oficial ha servido en la fuerza aérea.
+misiones_cumplidas: El número de misiones exitosas en las que ha participado el oficial (solo para pilotos y navegantes).
+vuelos_totales: El número total de vuelos realizados por el oficial (solo para pilotos).
+fecha_ingreso: La fecha en la que el oficial ingresó a la fuerza aérea.

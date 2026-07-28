@@ -1,0 +1,3 @@
+-->	Película #1 : VHS|drama
+-->	Película #2 : DVD|drama
+-->	Película #3 : DVD|drama
